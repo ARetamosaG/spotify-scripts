@@ -1,0 +1,8 @@
+credentials.py
+*.txt
+__pycache__/
+**/__pycache__/
+.spotify_cache/
+.spotify_cache/**
+.spotify_token_cache
+.spotify_token_cache/
